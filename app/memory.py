@@ -4,3 +4,4 @@ def init_memory(goal: str) -> dict:
         "steps": [],
         "completed": False
     }
+ 
