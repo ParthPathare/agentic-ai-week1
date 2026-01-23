@@ -1,5 +1,4 @@
-# Tools will be added in Week 2
-def print_tool(text: str) -> str:
-    print("NEWS SUMMARY:")
+def market_explainer_tool(text: str) -> str:
+    print("\n[TOOL] MARKET EXPLANATION:")
     print(text)
-    return "printed"
+    return "EXPLANATION_PRESENTED"
